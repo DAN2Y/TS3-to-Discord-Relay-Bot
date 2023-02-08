@@ -31,7 +31,7 @@ const teamspeak = new TeamSpeak({
   queryport: 10011, //optional
   serverport: 9987,
   username: "teamhuan",
-  password: "CVNeLP3i",
+  password: "******",
   nickname: "TeamHUAN Bot"
 })
 
